@@ -14,7 +14,6 @@
 
 
 fastapi==0.115.6
-mangum==0.17.0
 
 sqlalchemy==2.0.36
 asyncpg==0.31.0
