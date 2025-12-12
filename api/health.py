@@ -1,5 +1,3 @@
 def handler(request):
-    return {
-        "statusCode": 200,
-        "body": "OK FROM VERCEL"
-    }
+    return "OK FROM VERCEL"
+
